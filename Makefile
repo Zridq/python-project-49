@@ -15,3 +15,6 @@ RE:
  
 lint:
 	@poetry run flake8 brain_games
+
+Asci:
+	@asciinema rec demo.cast
