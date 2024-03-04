@@ -20,6 +20,7 @@ def repeatting():
     counter = 0
     sending = brain_calc()
     name = welcome_user()
+    print('What is the result of the expression?')
     counter = comparing(sending[0], sending[1], name, counter)
     while counter < 3:
         sending = brain_calc()

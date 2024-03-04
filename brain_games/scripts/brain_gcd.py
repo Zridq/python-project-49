@@ -18,6 +18,7 @@ def repeatting():
     counter = 0
     sending = brain_gcd()
     name = welcome_user()
+    print('Find the greatest common divisor of given numbers.')
     counter = comparing(sending[0], sending[1], name, counter)
     while counter < 3:
         sending = brain_gcd()

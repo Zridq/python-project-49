@@ -16,6 +16,7 @@ def repeatting():
     counter = 0
     sending = brain_even()
     name = welcome_user()
+    print('Answer "yes" if the number is even, otherwise answer "no".')
     counter = comparing(sending[0], sending[1], name, counter)
     while counter < 3:
         sending = brain_even()
