@@ -11,6 +11,6 @@ def comparing(question, result, name, counter):
         return counter
     else:
         print("'" + answer + "'", "is wrong answer ;(. Correct answer \
-    was", "'" + result + "'", ".\nLet's try again", name, "!")
+    was", "'" + result + "'", ".\nLet's try again,", name, "!")
         counter = 5
         return counter

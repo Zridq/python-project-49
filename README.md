@@ -2,17 +2,21 @@
 [![Actions Status](https://github.com/Zridq/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Zridq/python-project-49/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/00eebc73eca517e76df0/maintainability)](https://codeclimate.com/github/Zridq/python-project-49/maintainability)
 
-#brain-even
-https://asciinema.org/a/MHvdMx71bnncFix8Ygolzz7o0
+README
 
-#brain-calc
-https://asciinema.org/a/OSsaLlj3d5qil3NtbrQ2LuoUi
+It is first Hexlet project. In this project has developed some games::
 
-#brain-gsd
-https://asciinema.org/a/6qK2XmUun87skr1tDdObXrfP1
+<!-- 1) brain-even: Answer "yes" if the number /is even, otherwise answer "no". -->
+<!-- https://asciinema.org/a/1JZycqn4yvcwG8grA2GVc7YE7 -->
+<!-- 2) brain-calc: What is the result of the expression? -->
+<!-- https://asciinema.org/a/7nrpmM4KBTWgr31HDok86QTOz -->
+<!-- 3) brain-gcd: Find the greatest common divisor of given numbers. -->
+<!-- https://asciinema.org/a/rbz5ElqfyUv64sXPivImN6Yns -->
+<!-- 4) brain-progression: What number is missing in the progression? -->
+<!-- https://asciinema.org/a/GOgrKrKuWpOahgF48oBjDwf9d -->
+<!-- 5) brain-prime: 'Answer "yes" if given number is prime. Otherwise answer "no".' -->
+<!-- https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G -->
 
-#brain-progression
-https://asciinema.org/a/Pm5uI9dgK86yaHGR2G7Ymaxy9
-
-#brain-prime
-https://asciinema.org/a/sK66obj9GmrNvwxWipnGGRQBS
+How to install:
+<!-- 1) Use command: ./run -->
+<!-- 2) Write name of game -->
