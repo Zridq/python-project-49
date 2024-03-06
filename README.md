@@ -7,15 +7,24 @@ README
 It is first Hexlet project. In this project has developed some games::
 
 1) brain-even: Answer "yes" if the number /is even, otherwise answer "no".
-https://asciinema.org/a/1JZycqn4yvcwG8grA2GVc7YE7
+
+<script async id="asciicast-1JZycqn4yvcwG8grA2GVc7YE7" src="https://asciinema.org/a/1JZycqn4yvcwG8grA2GVc7YE7.js"></script>
+
 2) brain-calc: What is the result of the expression?
-https://asciinema.org/a/7nrpmM4KBTWgr31HDok86QTOz
+
+<script async id="asciicast-7nrpmM4KBTWgr31HDok86QTOz" src="https://asciinema.org/a/7nrpmM4KBTWgr31HDok86QTOz.js"></script>
+
 3) brain-gcd: Find the greatest common divisor of given numbers.
-https://asciinema.org/a/rbz5ElqfyUv64sXPivImN6Yns
+
+<script async id="asciicast-rbz5ElqfyUv64sXPivImN6Yns" src="https://asciinema.org/a/rbz5ElqfyUv64sXPivImN6Yns.js"></script>
+
 4) brain-progression: What number is missing in the progression?
-https://asciinema.org/a/GOgrKrKuWpOahgF48oBjDwf9d
+
+<script async id="asciicast-GOgrKrKuWpOahgF48oBjDwf9d" src="https://asciinema.org/a/GOgrKrKuWpOahgF48oBjDwf9d.js"></script>
+
 5) brain-prime: 'Answer "yes" if given number is prime. Otherwise answer "no".'
-https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G
+
+<script async id="asciicast-ZYYo3yLIrObbHpmTLHfRngt0G" src="https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G.js"></script>
 
 How to install:
 1) Use command: ./run

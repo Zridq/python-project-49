@@ -1,16 +1,19 @@
 import prompt
 
 
-def comparing(question, result, name, counter):
-    result = str(result)
-    print('Question:', question)
-    answer = prompt.string('Your answer: ')
-    if result == answer:
-        print('Correct!')
-        counter += 1
-        return counter
-    else:
-        print("'" + answer + "'", "is wrong answer ;(. Correct answer \
+def comparing(sending_question_result, name,):
+    counter = 0
+    while counter < 3:
+        question, result = sending_question_result()
+        result = str(result)
+        print('Question:', question)
+        answer = prompt.string('Your answer: ')
+        if result == answer:
+            print('Correct!')
+            counter += 1
+        else:
+            print("'" + answer + "'", "is wrong answer ;(. Correct answer \
 was", "'" + result + "'" + ".\nLet's try again,", name + "!")
-        counter = 5
-        return counter
+            counter = 5
+    if counter == 3:
+        print('Congratulations, ' + name + '!')
