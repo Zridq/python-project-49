@@ -10,6 +10,11 @@ It is first Hexlet project. In this project has developed some games::
 
 <script async id="asciicast-1JZycqn4yvcwG8grA2GVc7YE7" src="https://asciinema.org/a/1JZycqn4yvcwG8grA2GVc7YE7.js"></script>
 
+<a href="https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G" target="_blank"><img src="https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G.svg" /></a>
+
+[![asciicast](https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G.svg)](https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G)
+
+
 2) brain-calc: What is the result of the expression?
 
 <script async id="asciicast-7nrpmM4KBTWgr31HDok86QTOz" src="https://asciinema.org/a/7nrpmM4KBTWgr31HDok86QTOz.js"></script>
