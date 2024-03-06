@@ -8,7 +8,7 @@ It is first Hexlet project. In this project has developed some games::
 
 1) brain-even: Answer "yes" if the number /is even, otherwise answer "no".
 
-<script async id="asciicast-1JZycqn4yvcwG8grA2GVc7YE7" src="https://asciinema.org/a/1JZycqn4yvcwG8grA2GVc7YE7.js"></script>
+<a href="https://asciinema.org/a/1JZycqn4yvcwG8grA2GVc7YE7" target="_blank"><img src="https://asciinema.org/a/1JZycqn4yvcwG8grA2GVc7YE7.svg" /></a>
 
 <a href="https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G" target="_blank"><img src="https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G.svg" /></a>
 
@@ -17,19 +17,19 @@ It is first Hexlet project. In this project has developed some games::
 
 2) brain-calc: What is the result of the expression?
 
-<script async id="asciicast-7nrpmM4KBTWgr31HDok86QTOz" src="https://asciinema.org/a/7nrpmM4KBTWgr31HDok86QTOz.js"></script>
+<a href="https://asciinema.org/a/7nrpmM4KBTWgr31HDok86QTOz" target="_blank"><img src="https://asciinema.org/a/7nrpmM4KBTWgr31HDok86QTOz.svg" /></a>
 
 3) brain-gcd: Find the greatest common divisor of given numbers.
 
-<script async id="asciicast-rbz5ElqfyUv64sXPivImN6Yns" src="https://asciinema.org/a/rbz5ElqfyUv64sXPivImN6Yns.js"></script>
+<a href="https://asciinema.org/a/rbz5ElqfyUv64sXPivImN6Yns" target="_blank"><img src="https://asciinema.org/a/rbz5ElqfyUv64sXPivImN6Yns.svg" /></a>
 
 4) brain-progression: What number is missing in the progression?
 
-<script async id="asciicast-GOgrKrKuWpOahgF48oBjDwf9d" src="https://asciinema.org/a/GOgrKrKuWpOahgF48oBjDwf9d.js"></script>
+<a href="https://asciinema.org/a/GOgrKrKuWpOahgF48oBjDwf9d" target="_blank"><img src="https://asciinema.org/a/GOgrKrKuWpOahgF48oBjDwf9d.svg" /></a>
 
 5) brain-prime: 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
-<script async id="asciicast-ZYYo3yLIrObbHpmTLHfRngt0G" src="https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G.js"></script>
+<a href="https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G" target="_blank"><img src="https://asciinema.org/a/ZYYo3yLIrObbHpmTLHfRngt0G.svg" /></a>
 
 How to install:
 1) Use command: ./run

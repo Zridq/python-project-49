@@ -5,7 +5,7 @@ from brain_games.games.gcd import brain_gcd
 
 def main():
     name = welcome_user()
-    print('What number is missing in the progression?')
+    print('Find the greatest common divisor of given numbers.')
     comparing(brain_gcd, name)
     return
 
