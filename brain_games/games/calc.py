@@ -4,6 +4,7 @@ import operator
 
 
 def brain_calc():
+    print('What is the result of the expression?')
     number_a = randint(1, 100)
     number_b = randint(1, 100)
     operators = [('+', operator.add), ('-', operator.sub), ('*', operator.mul)]

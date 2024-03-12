@@ -2,6 +2,7 @@ from random import randint
 
 
 def brain_progression():
+    print('What number is missing in the progression?')
     number_first = randint(1, 100)
     lenght = randint(11, 20)
     step = randint(1, 20)
