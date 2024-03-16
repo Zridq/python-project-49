@@ -4,10 +4,11 @@ from brain_games.cli import welcome_user
 
 def comparing(sending_question_result):
     name = welcome_user()
+    question, result, rules = sending_question_result()
+    print(rules)
     counter = 0
     while counter < 3:
-        question, result = sending_question_result()
-        result = str(result)
+        question, result, rules = sending_question_result()
         print('Question:', question)
         answer = prompt.string('Your answer: ')
         if result == answer:

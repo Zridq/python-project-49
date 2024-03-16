@@ -1,9 +1,9 @@
 from brain_games.engine import comparing
-from brain_games.games.even import brain_even
+from brain_games.games.even import generate_question_result_rule
 
 
 def main():
-    comparing(brain_even)
+    comparing(generate_question_result_rule)
     return
 
 
