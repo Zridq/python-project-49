@@ -10,11 +10,10 @@ def brain_calc(number_a, number_b, op, fn):
     return question, str(result)
 
 
-def generate_question_result_rule():
-    rules = 'What is the result of the expression?'
+def generate_question_result():
     number_a = randint(1, 100)
     number_b = randint(1, 100)
     operators = [('+', operator.add), ('-', operator.sub), ('*', operator.mul)]
     op, fn = random.choice(operators)
     question, result = brain_calc(number_a, number_b, op, fn)
-    return question, result, rules
+    return question, result

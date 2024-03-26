@@ -11,11 +11,10 @@ def is_prime(question):
         return True
 
 
-def generate_question_result_rule():
-    rules = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+def generate_question_result():
     question = randint(1, 50)
     if is_prime(question):
         result = 'yes'
     else:
         result = 'no'
-    return question, result, rules
+    return question, result
