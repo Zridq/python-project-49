@@ -1,12 +1,12 @@
 from random import randint
 
 
-def build_progression(number_first, lenght, step):
+def build_progression(initial_term, elements_in_total, common_difference):
     count = 0
     progression = []
-    while count < lenght:
-        progression.append(number_first)
-        number_first += step
+    while count < elements_in_total:
+        progression.append(initial_term)
+        initial_term += common_difference
         count += 1
     return progression
 
@@ -33,7 +33,9 @@ def generate_question_result():
     initial_term = randint(min_initial_term, max_initial_term)
     elements_in_total = randint(min_elements_in_total, max_elements_in_total)
     common_difference = randint(min_common_difference, max_common_difference)
-    progression = build_progression(initial_term, elements_in_total, common_difference)
+    progression = build_progression(initial_term,
+                                    elements_in_total,
+                                    common_difference)
     number_of_element = randint(0, len(progression) - 1)
     question = make_question(progression, number_of_element)
     result = make_result(progression, number_of_element)
