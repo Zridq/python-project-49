@@ -12,7 +12,9 @@ def is_prime(question):
 
 
 def generate_question_result():
-    question = randint(1, 50)
+    min_number = 1
+    max_number = 50
+    question = randint(min_number, max_number)
     if is_prime(question):
         result = 'yes'
     else:

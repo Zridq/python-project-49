@@ -2,12 +2,12 @@ import prompt
 from brain_games.cli import welcome_user
 
 
-def comparing(sending_question_result, rules):
+def run_game(sending_question_result, rules):
     name = welcome_user()
-    question, result = sending_question_result()
     print(rules)
     counter = 0
-    while counter < 3:
+    rounds = 3
+    while counter < rounds:
         question, result = sending_question_result()
         print('Question:', question)
         answer = prompt.string('Your answer: ')

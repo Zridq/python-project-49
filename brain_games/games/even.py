@@ -9,7 +9,9 @@ def is_even(question):
 
 
 def generate_question_result():
-    question = randint(1, 100)
+    min_number = 1
+    max_number = 100
+    question = randint(min_number, max_number)
     if is_even(question):
         result = 'yes'
     else:
